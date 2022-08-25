@@ -1,0 +1,14 @@
+C:\Users\rodri\source\repos\ArraysForeach\bin\Debug\netcoreapp3.1\ArraysForeach.exe
+C:\Users\rodri\source\repos\ArraysForeach\bin\Debug\netcoreapp3.1\ArraysForeach.deps.json
+C:\Users\rodri\source\repos\ArraysForeach\bin\Debug\netcoreapp3.1\ArraysForeach.runtimeconfig.json
+C:\Users\rodri\source\repos\ArraysForeach\bin\Debug\netcoreapp3.1\ArraysForeach.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ArraysForeach\bin\Debug\netcoreapp3.1\ArraysForeach.dll
+C:\Users\rodri\source\repos\ArraysForeach\bin\Debug\netcoreapp3.1\ArraysForeach.pdb
+C:\Users\rodri\source\repos\ArraysForeach\obj\Debug\netcoreapp3.1\ArraysForeach.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\ArraysForeach\obj\Debug\netcoreapp3.1\ArraysForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\ArraysForeach\obj\Debug\netcoreapp3.1\ArraysForeach.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ArraysForeach\obj\Debug\netcoreapp3.1\ArraysForeach.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ArraysForeach\obj\Debug\netcoreapp3.1\ArraysForeach.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ArraysForeach\obj\Debug\netcoreapp3.1\ArraysForeach.dll
+C:\Users\rodri\source\repos\ArraysForeach\obj\Debug\netcoreapp3.1\ArraysForeach.pdb
+C:\Users\rodri\source\repos\ArraysForeach\obj\Debug\netcoreapp3.1\ArraysForeach.genruntimeconfig.cache
