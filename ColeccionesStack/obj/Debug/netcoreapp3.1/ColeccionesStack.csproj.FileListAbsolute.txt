@@ -1,0 +1,14 @@
+C:\Users\rodri\source\repos\ColeccionesStack\obj\Debug\netcoreapp3.1\ColeccionesStack.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\ColeccionesStack\obj\Debug\netcoreapp3.1\ColeccionesStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\ColeccionesStack\obj\Debug\netcoreapp3.1\ColeccionesStack.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ColeccionesStack\obj\Debug\netcoreapp3.1\ColeccionesStack.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ColeccionesStack\obj\Debug\netcoreapp3.1\ColeccionesStack.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ColeccionesStack\bin\Debug\netcoreapp3.1\ColeccionesStack.exe
+C:\Users\rodri\source\repos\ColeccionesStack\bin\Debug\netcoreapp3.1\ColeccionesStack.deps.json
+C:\Users\rodri\source\repos\ColeccionesStack\bin\Debug\netcoreapp3.1\ColeccionesStack.runtimeconfig.json
+C:\Users\rodri\source\repos\ColeccionesStack\bin\Debug\netcoreapp3.1\ColeccionesStack.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ColeccionesStack\bin\Debug\netcoreapp3.1\ColeccionesStack.dll
+C:\Users\rodri\source\repos\ColeccionesStack\bin\Debug\netcoreapp3.1\ColeccionesStack.pdb
+C:\Users\rodri\source\repos\ColeccionesStack\obj\Debug\netcoreapp3.1\ColeccionesStack.dll
+C:\Users\rodri\source\repos\ColeccionesStack\obj\Debug\netcoreapp3.1\ColeccionesStack.pdb
+C:\Users\rodri\source\repos\ColeccionesStack\obj\Debug\netcoreapp3.1\ColeccionesStack.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\rodri\source\repos\Condicion IF2\bin\Debug\netcoreapp3.1\Condicion IF2.exe
+C:\Users\rodri\source\repos\Condicion IF2\bin\Debug\netcoreapp3.1\Condicion IF2.deps.json
+C:\Users\rodri\source\repos\Condicion IF2\bin\Debug\netcoreapp3.1\Condicion IF2.runtimeconfig.json
+C:\Users\rodri\source\repos\Condicion IF2\bin\Debug\netcoreapp3.1\Condicion IF2.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\Condicion IF2\bin\Debug\netcoreapp3.1\Condicion IF2.dll
+C:\Users\rodri\source\repos\Condicion IF2\bin\Debug\netcoreapp3.1\Condicion IF2.pdb
+C:\Users\rodri\source\repos\Condicion IF2\obj\Debug\netcoreapp3.1\Condicion IF2.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\Condicion IF2\obj\Debug\netcoreapp3.1\Condicion IF2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\Condicion IF2\obj\Debug\netcoreapp3.1\Condicion IF2.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\Condicion IF2\obj\Debug\netcoreapp3.1\Condicion IF2.AssemblyInfo.cs
+C:\Users\rodri\source\repos\Condicion IF2\obj\Debug\netcoreapp3.1\Condicion IF2.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Condicion IF2\obj\Debug\netcoreapp3.1\Condicion IF2.dll
+C:\Users\rodri\source\repos\Condicion IF2\obj\Debug\netcoreapp3.1\Condicion IF2.pdb
+C:\Users\rodri\source\repos\Condicion IF2\obj\Debug\netcoreapp3.1\Condicion IF2.genruntimeconfig.cache
