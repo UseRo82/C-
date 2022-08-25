@@ -1,0 +1,14 @@
+C:\Users\rodri\source\repos\Practica Metodos\bin\Debug\netcoreapp3.1\Practica Metodos.exe
+C:\Users\rodri\source\repos\Practica Metodos\bin\Debug\netcoreapp3.1\Practica Metodos.deps.json
+C:\Users\rodri\source\repos\Practica Metodos\bin\Debug\netcoreapp3.1\Practica Metodos.runtimeconfig.json
+C:\Users\rodri\source\repos\Practica Metodos\bin\Debug\netcoreapp3.1\Practica Metodos.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\Practica Metodos\bin\Debug\netcoreapp3.1\Practica Metodos.dll
+C:\Users\rodri\source\repos\Practica Metodos\bin\Debug\netcoreapp3.1\Practica Metodos.pdb
+C:\Users\rodri\source\repos\Practica Metodos\obj\Debug\netcoreapp3.1\Practica Metodos.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\Practica Metodos\obj\Debug\netcoreapp3.1\Practica Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\Practica Metodos\obj\Debug\netcoreapp3.1\Practica Metodos.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\Practica Metodos\obj\Debug\netcoreapp3.1\Practica Metodos.AssemblyInfo.cs
+C:\Users\rodri\source\repos\Practica Metodos\obj\Debug\netcoreapp3.1\Practica Metodos.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Practica Metodos\obj\Debug\netcoreapp3.1\Practica Metodos.dll
+C:\Users\rodri\source\repos\Practica Metodos\obj\Debug\netcoreapp3.1\Practica Metodos.pdb
+C:\Users\rodri\source\repos\Practica Metodos\obj\Debug\netcoreapp3.1\Practica Metodos.genruntimeconfig.cache
