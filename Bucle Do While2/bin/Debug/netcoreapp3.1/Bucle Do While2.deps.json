@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bucle Do While2/1.0.0": {
+        "runtime": {
+          "Bucle Do While2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bucle Do While2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

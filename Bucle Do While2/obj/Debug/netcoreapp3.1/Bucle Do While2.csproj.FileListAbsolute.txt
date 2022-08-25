@@ -1,0 +1,14 @@
+C:\Users\rodri\source\repos\Bucle Do While2\bin\Debug\netcoreapp3.1\Bucle Do While2.exe
+C:\Users\rodri\source\repos\Bucle Do While2\bin\Debug\netcoreapp3.1\Bucle Do While2.deps.json
+C:\Users\rodri\source\repos\Bucle Do While2\bin\Debug\netcoreapp3.1\Bucle Do While2.runtimeconfig.json
+C:\Users\rodri\source\repos\Bucle Do While2\bin\Debug\netcoreapp3.1\Bucle Do While2.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\Bucle Do While2\bin\Debug\netcoreapp3.1\Bucle Do While2.dll
+C:\Users\rodri\source\repos\Bucle Do While2\bin\Debug\netcoreapp3.1\Bucle Do While2.pdb
+C:\Users\rodri\source\repos\Bucle Do While2\obj\Debug\netcoreapp3.1\Bucle Do While2.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\Bucle Do While2\obj\Debug\netcoreapp3.1\Bucle Do While2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\Bucle Do While2\obj\Debug\netcoreapp3.1\Bucle Do While2.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\Bucle Do While2\obj\Debug\netcoreapp3.1\Bucle Do While2.AssemblyInfo.cs
+C:\Users\rodri\source\repos\Bucle Do While2\obj\Debug\netcoreapp3.1\Bucle Do While2.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Bucle Do While2\obj\Debug\netcoreapp3.1\Bucle Do While2.dll
+C:\Users\rodri\source\repos\Bucle Do While2\obj\Debug\netcoreapp3.1\Bucle Do While2.pdb
+C:\Users\rodri\source\repos\Bucle Do While2\obj\Debug\netcoreapp3.1\Bucle Do While2.genruntimeconfig.cache
