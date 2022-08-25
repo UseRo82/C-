@@ -1,0 +1,14 @@
+C:\Users\rodri\source\repos\ColeccionesLinkedList\bin\Debug\netcoreapp3.1\ColeccionesLinkedList.exe
+C:\Users\rodri\source\repos\ColeccionesLinkedList\bin\Debug\netcoreapp3.1\ColeccionesLinkedList.deps.json
+C:\Users\rodri\source\repos\ColeccionesLinkedList\bin\Debug\netcoreapp3.1\ColeccionesLinkedList.runtimeconfig.json
+C:\Users\rodri\source\repos\ColeccionesLinkedList\bin\Debug\netcoreapp3.1\ColeccionesLinkedList.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ColeccionesLinkedList\bin\Debug\netcoreapp3.1\ColeccionesLinkedList.dll
+C:\Users\rodri\source\repos\ColeccionesLinkedList\bin\Debug\netcoreapp3.1\ColeccionesLinkedList.pdb
+C:\Users\rodri\source\repos\ColeccionesLinkedList\obj\Debug\netcoreapp3.1\ColeccionesLinkedList.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\ColeccionesLinkedList\obj\Debug\netcoreapp3.1\ColeccionesLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\ColeccionesLinkedList\obj\Debug\netcoreapp3.1\ColeccionesLinkedList.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ColeccionesLinkedList\obj\Debug\netcoreapp3.1\ColeccionesLinkedList.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ColeccionesLinkedList\obj\Debug\netcoreapp3.1\ColeccionesLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ColeccionesLinkedList\obj\Debug\netcoreapp3.1\ColeccionesLinkedList.dll
+C:\Users\rodri\source\repos\ColeccionesLinkedList\obj\Debug\netcoreapp3.1\ColeccionesLinkedList.pdb
+C:\Users\rodri\source\repos\ColeccionesLinkedList\obj\Debug\netcoreapp3.1\ColeccionesLinkedList.genruntimeconfig.cache
