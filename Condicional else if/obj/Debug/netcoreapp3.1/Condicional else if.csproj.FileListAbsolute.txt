@@ -1,0 +1,14 @@
+C:\Users\rodri\source\repos\Condicional else if\bin\Debug\netcoreapp3.1\Condicional else if.exe
+C:\Users\rodri\source\repos\Condicional else if\bin\Debug\netcoreapp3.1\Condicional else if.deps.json
+C:\Users\rodri\source\repos\Condicional else if\bin\Debug\netcoreapp3.1\Condicional else if.runtimeconfig.json
+C:\Users\rodri\source\repos\Condicional else if\bin\Debug\netcoreapp3.1\Condicional else if.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\Condicional else if\bin\Debug\netcoreapp3.1\Condicional else if.dll
+C:\Users\rodri\source\repos\Condicional else if\bin\Debug\netcoreapp3.1\Condicional else if.pdb
+C:\Users\rodri\source\repos\Condicional else if\obj\Debug\netcoreapp3.1\Condicional else if.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\Condicional else if\obj\Debug\netcoreapp3.1\Condicional else if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\Condicional else if\obj\Debug\netcoreapp3.1\Condicional else if.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\Condicional else if\obj\Debug\netcoreapp3.1\Condicional else if.AssemblyInfo.cs
+C:\Users\rodri\source\repos\Condicional else if\obj\Debug\netcoreapp3.1\Condicional else if.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Condicional else if\obj\Debug\netcoreapp3.1\Condicional else if.dll
+C:\Users\rodri\source\repos\Condicional else if\obj\Debug\netcoreapp3.1\Condicional else if.pdb
+C:\Users\rodri\source\repos\Condicional else if\obj\Debug\netcoreapp3.1\Condicional else if.genruntimeconfig.cache

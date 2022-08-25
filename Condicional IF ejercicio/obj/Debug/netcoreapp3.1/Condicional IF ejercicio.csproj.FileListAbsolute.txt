@@ -1,0 +1,14 @@
+C:\Users\rodri\source\repos\Condicional IF ejercicio\bin\Debug\netcoreapp3.1\Condicional IF ejercicio.exe
+C:\Users\rodri\source\repos\Condicional IF ejercicio\bin\Debug\netcoreapp3.1\Condicional IF ejercicio.deps.json
+C:\Users\rodri\source\repos\Condicional IF ejercicio\bin\Debug\netcoreapp3.1\Condicional IF ejercicio.runtimeconfig.json
+C:\Users\rodri\source\repos\Condicional IF ejercicio\bin\Debug\netcoreapp3.1\Condicional IF ejercicio.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\Condicional IF ejercicio\bin\Debug\netcoreapp3.1\Condicional IF ejercicio.dll
+C:\Users\rodri\source\repos\Condicional IF ejercicio\bin\Debug\netcoreapp3.1\Condicional IF ejercicio.pdb
+C:\Users\rodri\source\repos\Condicional IF ejercicio\obj\Debug\netcoreapp3.1\Condicional IF ejercicio.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\Condicional IF ejercicio\obj\Debug\netcoreapp3.1\Condicional IF ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\Condicional IF ejercicio\obj\Debug\netcoreapp3.1\Condicional IF ejercicio.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\Condicional IF ejercicio\obj\Debug\netcoreapp3.1\Condicional IF ejercicio.AssemblyInfo.cs
+C:\Users\rodri\source\repos\Condicional IF ejercicio\obj\Debug\netcoreapp3.1\Condicional IF ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Condicional IF ejercicio\obj\Debug\netcoreapp3.1\Condicional IF ejercicio.dll
+C:\Users\rodri\source\repos\Condicional IF ejercicio\obj\Debug\netcoreapp3.1\Condicional IF ejercicio.pdb
+C:\Users\rodri\source\repos\Condicional IF ejercicio\obj\Debug\netcoreapp3.1\Condicional IF ejercicio.genruntimeconfig.cache
