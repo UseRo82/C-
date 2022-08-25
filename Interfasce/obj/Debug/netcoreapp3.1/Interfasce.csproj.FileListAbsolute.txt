@@ -1,0 +1,14 @@
+C:\Users\rodri\source\repos\Interfasce\bin\Debug\netcoreapp3.1\Interfasce.exe
+C:\Users\rodri\source\repos\Interfasce\bin\Debug\netcoreapp3.1\Interfasce.deps.json
+C:\Users\rodri\source\repos\Interfasce\bin\Debug\netcoreapp3.1\Interfasce.runtimeconfig.json
+C:\Users\rodri\source\repos\Interfasce\bin\Debug\netcoreapp3.1\Interfasce.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\Interfasce\bin\Debug\netcoreapp3.1\Interfasce.dll
+C:\Users\rodri\source\repos\Interfasce\bin\Debug\netcoreapp3.1\Interfasce.pdb
+C:\Users\rodri\source\repos\Interfasce\obj\Debug\netcoreapp3.1\Interfasce.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\Interfasce\obj\Debug\netcoreapp3.1\Interfasce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\Interfasce\obj\Debug\netcoreapp3.1\Interfasce.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\Interfasce\obj\Debug\netcoreapp3.1\Interfasce.AssemblyInfo.cs
+C:\Users\rodri\source\repos\Interfasce\obj\Debug\netcoreapp3.1\Interfasce.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Interfasce\obj\Debug\netcoreapp3.1\Interfasce.dll
+C:\Users\rodri\source\repos\Interfasce\obj\Debug\netcoreapp3.1\Interfasce.pdb
+C:\Users\rodri\source\repos\Interfasce\obj\Debug\netcoreapp3.1\Interfasce.genruntimeconfig.cache

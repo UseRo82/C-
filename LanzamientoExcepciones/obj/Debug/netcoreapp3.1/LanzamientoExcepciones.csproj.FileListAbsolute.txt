@@ -1,0 +1,14 @@
+C:\Users\rodri\source\repos\LanzamientoExcepciones\bin\Debug\netcoreapp3.1\LanzamientoExcepciones.exe
+C:\Users\rodri\source\repos\LanzamientoExcepciones\bin\Debug\netcoreapp3.1\LanzamientoExcepciones.deps.json
+C:\Users\rodri\source\repos\LanzamientoExcepciones\bin\Debug\netcoreapp3.1\LanzamientoExcepciones.runtimeconfig.json
+C:\Users\rodri\source\repos\LanzamientoExcepciones\bin\Debug\netcoreapp3.1\LanzamientoExcepciones.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\LanzamientoExcepciones\bin\Debug\netcoreapp3.1\LanzamientoExcepciones.dll
+C:\Users\rodri\source\repos\LanzamientoExcepciones\bin\Debug\netcoreapp3.1\LanzamientoExcepciones.pdb
+C:\Users\rodri\source\repos\LanzamientoExcepciones\obj\Debug\netcoreapp3.1\LanzamientoExcepciones.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\LanzamientoExcepciones\obj\Debug\netcoreapp3.1\LanzamientoExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\LanzamientoExcepciones\obj\Debug\netcoreapp3.1\LanzamientoExcepciones.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\LanzamientoExcepciones\obj\Debug\netcoreapp3.1\LanzamientoExcepciones.AssemblyInfo.cs
+C:\Users\rodri\source\repos\LanzamientoExcepciones\obj\Debug\netcoreapp3.1\LanzamientoExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\LanzamientoExcepciones\obj\Debug\netcoreapp3.1\LanzamientoExcepciones.dll
+C:\Users\rodri\source\repos\LanzamientoExcepciones\obj\Debug\netcoreapp3.1\LanzamientoExcepciones.pdb
+C:\Users\rodri\source\repos\LanzamientoExcepciones\obj\Debug\netcoreapp3.1\LanzamientoExcepciones.genruntimeconfig.cache
