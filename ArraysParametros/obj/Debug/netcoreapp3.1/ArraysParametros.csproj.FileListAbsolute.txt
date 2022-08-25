@@ -1,0 +1,14 @@
+C:\Users\rodri\source\repos\ArraysParametros\bin\Debug\netcoreapp3.1\ArraysParametros.exe
+C:\Users\rodri\source\repos\ArraysParametros\bin\Debug\netcoreapp3.1\ArraysParametros.deps.json
+C:\Users\rodri\source\repos\ArraysParametros\bin\Debug\netcoreapp3.1\ArraysParametros.runtimeconfig.json
+C:\Users\rodri\source\repos\ArraysParametros\bin\Debug\netcoreapp3.1\ArraysParametros.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ArraysParametros\bin\Debug\netcoreapp3.1\ArraysParametros.dll
+C:\Users\rodri\source\repos\ArraysParametros\bin\Debug\netcoreapp3.1\ArraysParametros.pdb
+C:\Users\rodri\source\repos\ArraysParametros\obj\Debug\netcoreapp3.1\ArraysParametros.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\ArraysParametros\obj\Debug\netcoreapp3.1\ArraysParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\ArraysParametros\obj\Debug\netcoreapp3.1\ArraysParametros.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ArraysParametros\obj\Debug\netcoreapp3.1\ArraysParametros.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ArraysParametros\obj\Debug\netcoreapp3.1\ArraysParametros.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ArraysParametros\obj\Debug\netcoreapp3.1\ArraysParametros.dll
+C:\Users\rodri\source\repos\ArraysParametros\obj\Debug\netcoreapp3.1\ArraysParametros.pdb
+C:\Users\rodri\source\repos\ArraysParametros\obj\Debug\netcoreapp3.1\ArraysParametros.genruntimeconfig.cache
