@@ -1,0 +1,14 @@
+C:\Users\rodri\source\repos\ProgrmacionGenerica\bin\Debug\netcoreapp3.1\ProgrmacionGenerica.exe
+C:\Users\rodri\source\repos\ProgrmacionGenerica\bin\Debug\netcoreapp3.1\ProgrmacionGenerica.deps.json
+C:\Users\rodri\source\repos\ProgrmacionGenerica\bin\Debug\netcoreapp3.1\ProgrmacionGenerica.runtimeconfig.json
+C:\Users\rodri\source\repos\ProgrmacionGenerica\bin\Debug\netcoreapp3.1\ProgrmacionGenerica.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ProgrmacionGenerica\bin\Debug\netcoreapp3.1\ProgrmacionGenerica.dll
+C:\Users\rodri\source\repos\ProgrmacionGenerica\bin\Debug\netcoreapp3.1\ProgrmacionGenerica.pdb
+C:\Users\rodri\source\repos\ProgrmacionGenerica\obj\Debug\netcoreapp3.1\ProgrmacionGenerica.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\ProgrmacionGenerica\obj\Debug\netcoreapp3.1\ProgrmacionGenerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\ProgrmacionGenerica\obj\Debug\netcoreapp3.1\ProgrmacionGenerica.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ProgrmacionGenerica\obj\Debug\netcoreapp3.1\ProgrmacionGenerica.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ProgrmacionGenerica\obj\Debug\netcoreapp3.1\ProgrmacionGenerica.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ProgrmacionGenerica\obj\Debug\netcoreapp3.1\ProgrmacionGenerica.dll
+C:\Users\rodri\source\repos\ProgrmacionGenerica\obj\Debug\netcoreapp3.1\ProgrmacionGenerica.pdb
+C:\Users\rodri\source\repos\ProgrmacionGenerica\obj\Debug\netcoreapp3.1\ProgrmacionGenerica.genruntimeconfig.cache
