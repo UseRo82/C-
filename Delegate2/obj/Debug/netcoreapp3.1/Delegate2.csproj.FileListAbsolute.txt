@@ -1,0 +1,14 @@
+C:\Users\rodri\source\repos\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.exe
+C:\Users\rodri\source\repos\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.deps.json
+C:\Users\rodri\source\repos\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.runtimeconfig.json
+C:\Users\rodri\source\repos\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.dll
+C:\Users\rodri\source\repos\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.pdb
+C:\Users\rodri\source\repos\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.AssemblyInfo.cs
+C:\Users\rodri\source\repos\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.dll
+C:\Users\rodri\source\repos\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.pdb
+C:\Users\rodri\source\repos\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.genruntimeconfig.cache
