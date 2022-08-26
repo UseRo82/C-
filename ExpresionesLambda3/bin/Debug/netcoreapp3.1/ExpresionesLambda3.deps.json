@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExpresionesLambda3/1.0.0": {
+        "runtime": {
+          "ExpresionesLambda3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExpresionesLambda3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
