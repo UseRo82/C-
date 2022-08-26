@@ -1,0 +1,14 @@
+C:\Users\rodri\source\repos\ExpresionesRegulares\bin\Debug\netcoreapp3.1\ExpresionesRegulares.exe
+C:\Users\rodri\source\repos\ExpresionesRegulares\bin\Debug\netcoreapp3.1\ExpresionesRegulares.deps.json
+C:\Users\rodri\source\repos\ExpresionesRegulares\bin\Debug\netcoreapp3.1\ExpresionesRegulares.runtimeconfig.json
+C:\Users\rodri\source\repos\ExpresionesRegulares\bin\Debug\netcoreapp3.1\ExpresionesRegulares.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ExpresionesRegulares\bin\Debug\netcoreapp3.1\ExpresionesRegulares.dll
+C:\Users\rodri\source\repos\ExpresionesRegulares\bin\Debug\netcoreapp3.1\ExpresionesRegulares.pdb
+C:\Users\rodri\source\repos\ExpresionesRegulares\obj\Debug\netcoreapp3.1\ExpresionesRegulares.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\ExpresionesRegulares\obj\Debug\netcoreapp3.1\ExpresionesRegulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\ExpresionesRegulares\obj\Debug\netcoreapp3.1\ExpresionesRegulares.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ExpresionesRegulares\obj\Debug\netcoreapp3.1\ExpresionesRegulares.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ExpresionesRegulares\obj\Debug\netcoreapp3.1\ExpresionesRegulares.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ExpresionesRegulares\obj\Debug\netcoreapp3.1\ExpresionesRegulares.dll
+C:\Users\rodri\source\repos\ExpresionesRegulares\obj\Debug\netcoreapp3.1\ExpresionesRegulares.pdb
+C:\Users\rodri\source\repos\ExpresionesRegulares\obj\Debug\netcoreapp3.1\ExpresionesRegulares.genruntimeconfig.cache
